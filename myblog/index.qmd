@@ -1,7 +1,10 @@
 ---
-title: "myblog"
+title: "Time Series Blog"
+format: html
 ---
 
-This is a Quarto website.
+Welcome to my time series analysis blog!  
+Here, I’ll share insights, visualizations, and R tips.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Stay tuned!
+
