@@ -1,0 +1,17 @@
+{
+  "name": "R Quarto Environment",
+  "build": {
+    "dockerfile": "Dockerfile",
+    "context": "."
+  },
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "quarto.quarto",
+        "REditorSupport.r",
+        "yzhang.markdown-all-in-one"
+      ]
+    }
+  },
+  "remoteUser": "rstudio"
+}
