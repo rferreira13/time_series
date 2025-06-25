@@ -1,0 +1,7 @@
+{
+  "jupyter.kernels.filter": {
+    "include": ["ir"]
+  },
+  "jupyter.notebook.defaultKernel": "ir",
+  "jupyter.jupyterServerType": "local"
+}

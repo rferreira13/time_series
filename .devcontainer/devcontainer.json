@@ -7,9 +7,15 @@
   "customizations": {
     "vscode": {
       "extensions": [
+        "Ikuyadeu.r",
         "quarto.quarto",
         "REditorSupport.r",
-        "yzhang.markdown-all-in-one"
+        "yzhang.markdown-all-in-one",
+        "ms-toolsai.jupyter",
+        "quarto.quarto",
+        "tomoki1207.pdf",
+        "shd101wyy.markdown-preview-enhanced",
+        "ms-python.python"
       ]
     }
   },
